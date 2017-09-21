@@ -13,7 +13,7 @@ namespace Microsoft.Bot.Sample.FormBot
     {
         BLT, BlackForestHam, BuffaloChicken, ChickenAndBaconRanchMelt, ColdCutCombo, MeatballMarinara,
         OvenRoastedChicken, RoastBeef, RotisserieStyleChicken, SpicyItalian, SteakAndCheese, SweetOnionTeriyaki, Tuna,
-        TurkeyBreast, Veggie, Renewal
+        TurkeyBreast, Veggie, Renewal, Another Rewnal
     };
     public enum LengthOptions { SixInch, FootLong };
     public enum BreadOptions { NineGrainWheat, NineGrainHoneyOat, Italian, ItalianHerbsAndCheese, Flatbread };
